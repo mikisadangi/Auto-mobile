@@ -1,1 +1,1 @@
-# Auto-mobile
+# AutoPricePred - Car Price Prediction Project
